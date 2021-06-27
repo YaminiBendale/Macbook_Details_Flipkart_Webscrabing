@@ -1,23 +1,23 @@
 # Macbook_Details_Flipkart_Webscrabing
 Scrabbed data of all Available MacBook data from Flipkart.com
 
-# Programming Language
+## Programming Language
  PYTHON3
 
-# Modules Used
- 1.Requests
- 2.Beautiful soup
- 3.time
- 4.pandas
+## Modules Used
+1. Requests
+2. Beautiful soup
+3. time
+4. pandas
 	
-# Collected data includes:
- 1.Product Name
- 2.Price
- 3.Star
- 4.No. of Ratings
- 5.No. of Reviews
- 6.Warrenty
- 7.Specifications
+## Collected data includes:
+1. Product Name
+2. Price
+3. Star
+4. No. of Ratings
+5. No. of Reviews
+6. Warrenty
+7. Specifications
 
 # Data Source
 
